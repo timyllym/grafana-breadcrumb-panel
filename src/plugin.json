@@ -1,0 +1,35 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "panel",
+  "name": "Breadcrumb",
+  "id": "timyllym-breadcrumb-panel",
+  "info": {
+    "description": "Breadcrumb Panel for Grafana",
+    "author": {
+      "name": "Timo Myllymaki"
+    },
+    "keywords": ["breadcrumb"],
+    "logos": {
+      "small": "img/breadcrumb-icon.svg",
+      "large": "img/breadcrumb-icon.svg"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/timyllym/grafana-breadcrumb-panel"
+      }
+    ],
+    "screenshots": [
+      {
+        "name": "Showcase",
+        "path": "img/breadcrumb-screenshot.png"
+      }
+    ],
+    "version": "1.2.0",
+    "updated": "2022-08-15"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=7.0.0",
+    "plugins": []
+  }
+}
