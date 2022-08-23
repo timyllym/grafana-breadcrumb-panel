@@ -24,5 +24,5 @@ Copy the contents of ``dist`` folder to ``plugins/breadcrumb`` folder so Grafana
 ### Install the Panel
 Use the grafana-cli tool to install Breadcrumb from the commandline:
 ```
-grafana-cli plugins install digiapulssi-breadcrumb-panel
+grafana-cli plugins install timyllym-breadcrumb-panel
 ```
