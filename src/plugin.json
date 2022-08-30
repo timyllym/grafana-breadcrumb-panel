@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
   "type": "panel",
   "name": "Breadcrumb",
-  "id": "timyllym-breadcrumb-panel",
+  "id": "timomyl-breadcrumb-panel",
   "info": {
     "description": "Breadcrumb Panel for Grafana",
     "author": {
